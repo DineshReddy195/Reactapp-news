@@ -1,0 +1,65 @@
+.Card{
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.profile{
+  display: flex;
+  align-items: center;
+  font-weight: 100px;
+}
+.profile-pic{
+  margin: 25px;
+}
+.image{
+  width: 30px;
+  border-radius: 50%;
+}
+h3{
+  margin: 0px;
+  padding: 0px;
+}
+.heading{
+  margin-top: 0px;
+  margin-left: 25px;
+}
+.para{
+  color: grey;
+}
+.footer{
+  display: flex;
+  margin-left: 25px;
+  margin-top: 25px;
+  justify-content: space-evenly;
+}
+.type{
+  background-color: gray;
+  width: 69px;
+  height: 25px;
+  border-radius: 15px;
+  opacity: 0.3;
+  text-align: center;
+}
+.pic{
+  width: 300px;
+  height: 300px;
+}
+.News{
+  display: flex;
+  width: 1200px;
+  height: 120px;
+  margin:100px auto;
+  align-items: center;
+  margin-left: 300px;
+}
+.picture{
+  padding-right: 300px;
+}
+.material-symbols-outlined {
+  margin-left: 300px;
+  cursor: pointer;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
